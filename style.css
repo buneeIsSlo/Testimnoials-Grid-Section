@@ -96,15 +96,19 @@ article:nth-of-type(5):hover {
     font-size: .8em;
 }
 
-#dark--blue {
+#dark--blue--jean,
+#dark--blue--kira {
     color: var(--Very-dark-grayish-blue);
 }
 
-#gray--80 {
+
+#gray--80--jean,
+#gray--80--kira {
     color: #c0c0c080;
 }
 
-#gray--100 {
+#gray--100--jean,
+#gray--100--kira {
     color: #c0c0c0;
 }
 
