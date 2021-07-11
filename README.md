@@ -21,7 +21,7 @@ https://buneeisslo.github.io/Testimnoials-Grid-Section/
 
 ### Resources 
 - [A Playlist of Youtube tutorials on CSS grids](https://www.youtube.com/playlist?list=PLu8EoSxDXHP5CIFvt9-ze3IngcdAc2xKG)
-- [anime.js Documentation]()
+- [anime.js Documentation](https://animejs.com/documentation/)
 - [Ways to cancel the animations](https://github.com/juliangarnier/anime/issues/188#issuecomment-621589326)
 - [Respecting "Prefers reduced motion" with javaScript and with REACT](https://since1979.dev/respecting-prefers-reduced-motion-with-javascript-and-react/)
 - [How to Emulate reduced motion](https://www.youtube.com/watch?v=wIj-NymT5fY)
