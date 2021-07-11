@@ -96,8 +96,11 @@ article:nth-of-type(5):hover {
     font-size: .8em;
 }
 
-#dark--blue--jean,
-#dark--blue--kira {
+#dark--blue--jean--name,
+#dark--blue--kira--name,
+#dark--blue--jean--heading,
+#dark--blue--kira--heading
+{
     color: var(--Very-dark-grayish-blue);
 }
 
